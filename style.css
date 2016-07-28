@@ -27,3 +27,7 @@ body{
 #main-menu {
 	float:right;
 }
+
+.navbar-default {
+	background-color:#0288D1;
+}
