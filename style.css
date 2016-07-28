@@ -28,15 +28,15 @@ body{
 	float:right;
 }
 
-<<<<<<< HEAD
+
 .navbar-default {
 	background-color:#0288D1;
-=======
+}
 .navbar-default .navbar-nav>li>a {
     color:#fff;
 }
 
 .navbar-default .navbar-brand {
     color: #fff;
->>>>>>> change-link-colors
+
 }
