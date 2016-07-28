@@ -27,3 +27,11 @@ body{
 #main-menu {
 	float:right;
 }
+
+.navbar-default .navbar-nav>li>a {
+    color:#fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
