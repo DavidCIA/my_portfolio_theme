@@ -11,11 +11,12 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  tk-master-child
 */
+@import 'https://fonts.googleapis.com/css?family=Bentham';
 
 body{
    color:#fff;
    background-color:#03A9F4;
-   
+   font-family: 'Bentham', serif;
 
 }
 
